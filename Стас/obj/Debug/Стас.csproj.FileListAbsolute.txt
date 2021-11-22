@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Стас\obj\Debug\Стас.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Стас\obj\Debug\Стас.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Стас\bin\Debug\Стас.exe.config
+C:\Users\User\source\repos\Стас\bin\Debug\Стас.exe
+C:\Users\User\source\repos\Стас\bin\Debug\Стас.pdb
+C:\Users\User\source\repos\Стас\obj\Debug\Стас.exe
+C:\Users\User\source\repos\Стас\obj\Debug\Стас.pdb
